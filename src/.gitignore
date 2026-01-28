@@ -1,9 +1,7 @@
-node_modules/
-dist/
-build/
-.vite/
+node_modules
 .env
-.env.*
-*.log
+backend/.env
+uploads
+dist
+build
 .DS_Store
-Thumbs.db
