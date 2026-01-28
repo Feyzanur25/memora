@@ -1,0 +1,5 @@
+- [x] Add fs import to backend/index.js
+- [x] Create loadCapsules and saveCapsules functions
+- [x] Load capsules on server start
+- [x] Save capsules after POST /capsules
+- [x] Save capsules after DELETE /capsules/:id
