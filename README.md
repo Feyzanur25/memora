@@ -30,7 +30,7 @@ user-centered experience
 
 🚀 Vercel Deployment:
 
-https://vercel.com/feyzanur25s-projects/memoraa
+https://memoraa.vercel.app/
 
 🛠️ Features
 🔐 Wallet Integration
