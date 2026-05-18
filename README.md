@@ -145,9 +145,17 @@ Create a new branch
 Submit a pull request
 📬 Contact
 
-💼 LinkedIn: PASTE_YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/feyzanur-ates-b31124264
 
-📧 Email: PASTE_YOUR_EMAIL
+📧 Email: feyzanurates4@gmail.com
+## 🚀 Build in Public
+
+Memora is actively developed in public.
+
+Development updates, technical progress, and product iterations are shared regularly throughout the journey.
+
+🔗 Follow the development process on LinkedIn:
+https://www.linkedin.com/posts/feyzanur-ates-b31124264_yazaftlaftmgeliagntirme-react-nodejs-activity-7419724245972402176-mz6_?utm_source=share&utm_medium=member_android&rcm=ACoAAEDNT1UBbNsnvuvq_4y5eyMbMpllKl_ygTc
 
 ⭐ Final Note
 
